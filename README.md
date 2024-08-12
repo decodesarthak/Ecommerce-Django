@@ -87,6 +87,3 @@ python manage.py runserver
 </table>
 
 
-## Documentation
-You can check up django documentation page for any further information.
-[Django Docs](https://docs.djangoproject.com/en/4.0/)
